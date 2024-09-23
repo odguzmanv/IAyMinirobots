@@ -5,4 +5,4 @@ Repositorio de tareas y documentos del curso de inteligencia artificial y miniro
 * Carlos Cuevas
 
 
-Tareas de la 1 a la 7, con proyectos de generación de música mediante LSTM, comprimido por el peso, para ver el notebook toca descomprimirlo.
+Tareas de la 1 a la 7, con proyectos de generación de música mediante LSTM, comprimido por el peso, para ver el notebook toca descomprimirlo. RAG de un modelo LLM (Ollama) con datos web scrapeados con selenium de un journal del MIT. 
